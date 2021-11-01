@@ -5,7 +5,7 @@ import {
 const Button = defineComponent({
     render() {
         return (
-            <button>this is button</button>
+            <button>this is button2</button>
         )
     }
 })
